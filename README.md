@@ -2,6 +2,8 @@
 
 A modern, responsive electronics store website built with HTML, CSS, and JavaScript.
 
+A link to the website is: https://week-8-assignment.netlify.app/ 
+
 ## About
 
 ElectroShop is a clean and professional e-commerce website showcasing electronic products including smartphones, laptops, televisions, and headphones. The site features a modern design with interactive elements and responsive layout optimized for all devices.
